@@ -8,7 +8,7 @@
         Console.WriteLine("Результат:");
         foreach (string result in resultArray)
         {
-            Console.WriteLine(result);
+            Console.Write(result);
         }
 
     static string[] FilterStrings(string[] inputArray)

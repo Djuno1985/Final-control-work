@@ -1,0 +1,15 @@
+/Users/uliakornilova/Desktop/final work/bin/Debug/net6.0/final work
+/Users/uliakornilova/Desktop/final work/bin/Debug/net6.0/final work.deps.json
+/Users/uliakornilova/Desktop/final work/bin/Debug/net6.0/final work.runtimeconfig.json
+/Users/uliakornilova/Desktop/final work/bin/Debug/net6.0/final work.dll
+/Users/uliakornilova/Desktop/final work/bin/Debug/net6.0/final work.pdb
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.csproj.AssemblyReference.cache
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.AssemblyInfoInputs.cache
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.AssemblyInfo.cs
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.csproj.CoreCompileInputs.cache
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.dll
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/refint/final work.dll
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.pdb
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/final work.genruntimeconfig.cache
+/Users/uliakornilova/Desktop/final work/obj/Debug/net6.0/ref/final work.dll
