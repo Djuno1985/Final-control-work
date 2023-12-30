@@ -11,7 +11,7 @@
             Console.WriteLine(result);
         }
 
-        static string[] FilterStrings(string[] inputArray)
+    static string[] FilterStrings(string[] inputArray)
     {
         int resultCount = 0;
         for (int i = 0; i < inputArray.Length; i++)
@@ -21,8 +21,8 @@
                 resultCount++;
             }
         }
-    }
-    string[] resultArray = new string[resultCount];
+
+        string[] resultArray = new string[resultCount];
         int currentIndex = 0;
 
         for (int i = 0; i < inputArray.Length; i++)
@@ -35,5 +35,10 @@
         }
 
         return resultArray;
+    }
+
+    static bool IsShortString(string str)
+    {
+        return str.Length <= 3;
     }
 
