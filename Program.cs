@@ -10,3 +10,14 @@
         {
             Console.WriteLine(result);
         }
+
+        static string[] FilterStrings(string[] inputArray)
+    {
+        int resultCount = 0;
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (IsShortString(inputArray[i]))
+            {
+                resultCount++;
+            }
+        }
