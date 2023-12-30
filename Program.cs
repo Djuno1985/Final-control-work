@@ -21,3 +21,19 @@
                 resultCount++;
             }
         }
+    }
+    string[] resultArray = new string[resultCount];
+        int currentIndex = 0;
+
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (IsShortString(inputArray[i]))
+            {
+                resultArray[currentIndex] = inputArray[i];
+                currentIndex++;
+            }
+        }
+
+        return resultArray;
+    }
+
